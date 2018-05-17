@@ -65,5 +65,5 @@ class Student
     FROM students
     WHERE grade = 9
   end
-
+  
 end
